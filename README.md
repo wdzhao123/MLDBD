@@ -10,7 +10,7 @@ Implementation of "IEEE Transactions on Multimedia: Full-scene Defocus Blur Dete
    * `CUHK+`: Contains 160 testing images and it's GT.
    * `DUT+`: Contains 800 testing images and it's GT.
    
-Download and unzip datasets from 
+Download and unzip datasets from baidu link: https://pan.baidu.com/s/1hgph3rHPd5u8yU17iY9YpA?pwd=7qh5 password: 7qh5
 
 # Test
 You can use the following command to test：
